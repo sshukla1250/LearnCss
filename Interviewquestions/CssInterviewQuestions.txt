@@ -1,0 +1,20 @@
+Padding: CSS Padding property is used to define the space between the element content and the element border.
+It is different from CSS margin in the way that CSS margin defines the space around elements. CSS padding is affected by the background colors. It clears an area around the content.
+
+Top, bottom, left and right padding can be changed independently using separate properties. You can also change all properties at once by using shorthand padding property.
+
+
+Property:
+
+Background:CSS background property is used to define the background effects on element. There are 5 CSS background properties that affects the HTML elements:
+
+1. background-color
+2. background-image
+3. background-repeat
+4. background-attachment
+5. background-position
+
+background-position: left, right, top, bottom and center
+
+
+  

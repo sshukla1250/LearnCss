@@ -1,0 +1,19 @@
+h1{
+    color:blue;
+    background-color:aqua;
+    padding: 10px;
+}
+h2,p{
+    background-color: #b0d4de;
+}
+body{
+    /* background-image: url('../images/forest.jpg'); */
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    /*background-repeat: repeat-x;  
+    background-repeat: repeat-y;  */
+    background:white url('../images/forest.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left:200px;
+}
